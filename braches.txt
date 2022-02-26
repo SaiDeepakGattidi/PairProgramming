@@ -1,6 +1,4 @@
-main
-  saideepakg
-  remotes/origin/HEAD -> origin/main
-  remotes/origin/juwon8
-  remotes/origin/main
-  remotes/origin/saideepakg
+remotes/origin/HEAD -> origin/main
+remotes/origin/juwon8
+remotes/origin/main
+remotes/origin/saideepakg
