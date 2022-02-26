@@ -1,7 +1,8 @@
 import java.util.Scanner;
 
 public class Roman {
-    
+    //The below function converts Integer to Roman symbol.
+    //I, Sai Deeepak Gattidi wrote this using visual studio code.
     static int[] values = {1, 5, 10, 50, 100, 500, 1000};    
     static String[] symbols = {"I", "V", "X", "L", "C", "D", "M"};
     // Store the symbols with their respective values in 2 respective arrays
