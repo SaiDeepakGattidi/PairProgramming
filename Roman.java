@@ -6,7 +6,10 @@ class Roman{
 		System.out.println(romanToInt("I"));
 
 	}
-
+	
+    //The below function converts Roman to Integer.
+    //I, Juwon park wrote code using visual studio code.
+	
 	static Map<String, Integer> values = new HashMap<>();
     
     static {
