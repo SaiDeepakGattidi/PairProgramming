@@ -6,7 +6,7 @@ public class Roman {
     static String[] symbols = {"I", "V", "X", "L", "C", "D", "M"};
     // Store the symbols with their respective values in 2 respective arrays
     public static void main (String[] args) {
-        
+        //Int to Roman
         Scanner scan = new Scanner(System.in);
         System.out.print("Enter any number: ");
         
